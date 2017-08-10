@@ -2,6 +2,8 @@ package day1;
 
 public class ClassTest {
 	
+	
+	// here we called 3 classes we created objects for each and then called their methods.
 	public static void main(String[]args){
 		
 		ClassOne o=new ClassOne();
