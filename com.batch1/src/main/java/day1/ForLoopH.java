@@ -1,10 +1,11 @@
-package Test;
+package day1;
 
-public class Check1 {
+public class ForLoopH {
+
 	
 	public static void main(String[]args){
-	
-	
+		
+		
 		  String s1 = "Bashir Ahmad";
 	        for(int i=s1.length()-1;i>=0;i--)
 	            {
@@ -14,4 +15,4 @@ public class Check1 {
 	}
 	
 		
-		
+

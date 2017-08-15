@@ -10,9 +10,11 @@ public class Check extends Check1 {
     	   {
     		   for (int j=i;j>0;j++){
     			   
-    			   System.out.print("*");
+    			  
     		   }
+    		   System.out.println("*");
     	   }
+    	   
        }
     	
 			

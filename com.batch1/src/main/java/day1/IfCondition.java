@@ -7,12 +7,11 @@ public class IfCondition {
 		 int a=0;
 		 if (a>1){
 			 System.out.println("print the number is negative");
-		// }
-		// else{
+		 }
+		 else{
 			 System.out.println(" number is positive");
 			 
-		// }
+		 }
 	}
 
-}
 }
