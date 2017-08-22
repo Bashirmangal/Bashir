@@ -1,4 +1,4 @@
-package Test;
+package test;
  // control statement while loop
 public class Test3 {
 
